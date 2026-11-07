@@ -9,6 +9,8 @@ Compound Net is an architecture in which under-dimensioned generalizing expert n
 - **[Open Research Challenge: Integrating Mixed Expert Knowledge](OPEN_RESEARCH_CHALLENGE.md)** — A companion research note outlining unresolved questions, limitations, and suggested directions for further investigation.
 - **[Fingerprint Handling – Method and Tendencies (Swedish, PDF)](Compond%20net%20och%20Data%20dom%C3%A4ner.pdf)** — Focused note on how domain fingerprint (Di) is handled, including size comparisons and gating experiments.
 - **[Fingerprint Handling – Method and Tendencies (English, PDF)](Compound%20net%20and%20Data%20domains.pdf)** — English version of the fingerprint handling research note.
+- **[The Combination Network and Concatenation (Swedish, PDF)](Compound_Net_Kombinationsnatet.pdf)** — Describes how concatenation and the combination network work, with diagram and results (16.7% relative RMSE).
+- **[The Combination Network and Concatenation (English, PDF)](Compound_Net_Combination_Network_EN.pdf)** — English version of the combination network document.
 
 ## Invitation to Continue the Research
 

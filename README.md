@@ -7,8 +7,8 @@ Compound Net is an architecture in which under-dimensioned generalizing expert n
 
 - **[Original Scientific Report — Compound Net (PDF)](Compound%20Net%20in%20Ai.pdf)** — The original report covering the architecture, methods, and experiments CN1–CN4.
 - **[Open Research Challenge: Integrating Mixed Expert Knowledge](OPEN_RESEARCH_CHALLENGE.md)** — A companion research note outlining unresolved questions, limitations, and suggested directions for further investigation.
-- **[Fingerprint Handling – Method and Tendencies (Swedish)](Compound_Net_Fingerprint_Hantering.docx)** — Focused note on how domain fingerprint (Di) is handled, including size comparisons and gating experiments.
-- **[Fingerprint Handling – Method and Tendencies (English)](Compound_Net_Fingerprint_Handling_EN.docx)** — English version of the fingerprint handling research note.
+- **[Fingerprint Handling – Method and Tendencies (Swedish, PDF)](Compond%20net%20och%20Data%20dom%C3%A4ner.pdf)** — Focused note on how domain fingerprint (Di) is handled, including size comparisons and gating experiments.
+- **[Fingerprint Handling – Method and Tendencies (English, PDF)](Compound%20net%20and%20Data%20domains.pdf)** — English version of the fingerprint handling research note.
 
 ## Invitation to Continue the Research
 

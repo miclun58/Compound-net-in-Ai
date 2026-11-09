@@ -15,3 +15,12 @@ Compound Net is an architecture in which under-dimensioned generalizing expert n
 ## Invitation to Continue the Research
 
 This project is open to independent investigation, replication, critique, and further development. Researchers and AI developers are invited to explore the documents above and share ideas or findings in **[Issue #1 — Invitation](../../issues/1)**.
+
+## Closing Research Note — 9 November 2026
+
+The present research phase is concluded as an open-ended investigation. Two language versions summarize the findings, the six prerequisite research areas, and the conditions for resuming Compound Net research:
+
+- **[English — What We Have Learned and What We Are Waiting For](docs/compound-net-closing-research-note-2026-11-09-en.md)**
+- **[Svenska — Vad vi har lärt oss och vad vi väntar på](docs/compound-net-closing-research-note-2026-11-09-sv.md)**
+
+These notes distinguish proof-of-principle observations from unproven general claims; they do not replace the original reports.
